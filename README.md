@@ -1,5 +1,5 @@
 # Assignment 3 Description (9% of total grade) #
-**Due: March 15th**
+**Due: March 19th**
 
 Based on Assignments #1 and #2 the task in this assignment is to create a 3D iso surface renderer in a second window.
 
