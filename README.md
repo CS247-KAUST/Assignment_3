@@ -5,7 +5,7 @@ Based on Assignments #1 and #2 the task in this assignment is to create a 3D iso
 
 ## Reading assignments ##
 * Data Visualization book, Chapter 5 until 5.3 (inclusive)
-* Willaim E. Lorensen, Harvey E. Cline:
+* William E. Lorensen, Harvey E. Cline:
 Marching cubes: A high resolution 3D surface construction algorithm
 SIGGRAPH '87
 https://dl.acm.org/citation.cfm?id=37422
@@ -24,7 +24,7 @@ https://dl.acm.org/citation.cfm?id=37422
   * The iso value must be editable by the user, updating the views (15 points)
 
 ## Bonus ##
-* Apply phong shading in fragment shader (+10 points)
+* Apply Phong shading in fragment shader (+10 points)
 * Allow user to change light parameters (e.g., light position) (+10 points)
 
 
